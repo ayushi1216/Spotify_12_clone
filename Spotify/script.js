@@ -39,9 +39,6 @@ songItems.forEach((element, i) => {
 
 
 
-
-
-
 // To handle play & pause clicks
 
 masterPlay.addEventListener('click', ()=>{
